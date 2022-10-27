@@ -36,12 +36,3 @@ System.out.println( changeDeBase( 36 ) ); 	// affiche 10
 // (maBase = 19)
 System.out.println( changeDeBase( 19 ) ); 	// affiche 10
 ```
-
-## Quoi
-
-Compétence | Critère | Commentaire | Note
---- | --- | --- | ---
-CC | Utilisation des variables, des opérations, des conditions, des boucles et des fonctions. | tout est là | 4++
-HP | Algorithme logique et expliqué avec des commentaires. | très bien expliqué | 4++
-CO | Noms de variables clairs; structure (tabulations) claire; conventions respectées. | en séparant le commentaire de documentation de la classe, tu as brisé la documentation | 4+
-MA | Travail complet selon les consignes; Aucune erreur de compilation ou d'exécution; Présence du bytecode `Projet1.class`. | tout est conforme | 4++
